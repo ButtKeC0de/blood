@@ -1,0 +1,20 @@
+body{
+
+    background-color: brown;
+
+}
+
+form{
+
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    display: block;
+}
+
+h1{
+
+    text-align: center;
+
+}
