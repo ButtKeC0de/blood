@@ -24,12 +24,37 @@ h1{
     align-items: flex-end;
 }
 
-body{
+.ct{
 
     text-align: center;
     align-items: flex-start;
     justify-content: center;
-    background-color: rgb(100, 34, 34);
+    image-rendering: auto;
+    display: flex;
+}
+
+body{
+
+        background-color: rgb(100, 34, 34);
+
+}
+
+.fundo_2{
+
+    background-color: rgb(138, 137, 136);;
+    border-radius: 10px;
+    padding: 10px 14px;
+    display: block;
+    border: solid 10px rgb(75, 49, 49);
+    font-size: 25px;
+
+}
+
+.cd{
+
+    text-align:center;
+    align-items: flex-end;
+    justify-content: center;
     image-rendering: auto;
     display: flex;
 }
