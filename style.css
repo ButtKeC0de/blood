@@ -1,0 +1,35 @@
+h1{
+    color: aliceblue;
+}
+
+.red{
+    color: rgb(243, 52, 52);
+    font-size: 50px;
+}
+
+.fundo{
+
+    background-color: rgb(138, 137, 136);;
+    border-radius: 10px;
+    padding: 10px 190px;
+    display: flex;
+    border: solid 10px rgb(114, 50, 50);
+
+}
+
+.fundo img {
+
+    height: 100px;
+    text-align: end;
+    align-items: flex-end;
+}
+
+body{
+
+    text-align: center;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: rgb(100, 34, 34);
+    image-rendering: auto;
+    display: flex;
+}
